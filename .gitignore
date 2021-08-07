@@ -1,0 +1,10 @@
+image-crop-analysis/data/
+image-crop-analysis/src/__pycache__/
+tumblr-scraper/out_all/
+tumblr-scraper/out_enby/
+tumblr-scraper/selfie_posts_all.pkl
+tumblr-scraper/selfie_posts_enby.pkl
+tumblr-scraper/stop.txt
+tumblr-scraper/to_exclude_all.json
+tumblr-scraper/to_exclude_enby.json
+tumblr-scraper/.ipynb_checkpoints/
